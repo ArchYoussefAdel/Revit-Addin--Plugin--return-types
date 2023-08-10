@@ -1,0 +1,6 @@
+C:\some PROGRAMS that i like\VisualStudio\1st project and solution\RevitAddin7\RevitAddin7\bin\Debug\RevitAddin7.dll
+C:\some PROGRAMS that i like\VisualStudio\1st project and solution\RevitAddin7\RevitAddin7\bin\Debug\RevitAddin7.pdb
+C:\some PROGRAMS that i like\VisualStudio\1st project and solution\RevitAddin7\RevitAddin7\obj\Debug\RevitAddin7.csproj.AssemblyReference.cache
+C:\some PROGRAMS that i like\VisualStudio\1st project and solution\RevitAddin7\RevitAddin7\obj\Debug\RevitAddin7.csproj.CoreCompileInputs.cache
+C:\some PROGRAMS that i like\VisualStudio\1st project and solution\RevitAddin7\RevitAddin7\obj\Debug\RevitAddin7.dll
+C:\some PROGRAMS that i like\VisualStudio\1st project and solution\RevitAddin7\RevitAddin7\obj\Debug\RevitAddin7.pdb
